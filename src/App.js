@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
     borderRadius: 5,
   },
   cardRoot: {
-    width: 250,
+    width: 251,
   },
   title: {
     fontSize: 14,
